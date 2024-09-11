@@ -1,3 +1,10 @@
+
+# LOGIN-SIGNUP-WITH-AUTHENTICATION-AND-AUTHORISATION
+## <a href="https://loginsignup-auth.netlify.app/"> Tap to Visit</a>
+## SIGNUP PAGE , LOGIN PAGE , DASHBOARD
+<img width="1158" alt="image" src="https://github.com/user-attachments/assets/fa77d5a3-e7ac-42dd-adef-80c2f946e03c">
+<img width="1158" alt="image" src="https://github.com/user-attachments/assets/fceee68f-41a2-40d9-817c-b803f5d50ae9">
+<img width="1158" alt="image" src="https://github.com/user-attachments/assets/f3f0a29e-d0e0-4a88-b35c-89da676dd2c3">
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
